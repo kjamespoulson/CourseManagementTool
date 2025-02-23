@@ -1,4 +1,4 @@
-**Course Management Tool**
+# Course Management Tool
 
     Developed to be hosted on the Google Cloud Platform, Course Management Tool is an API for managing 
     student, instructor, course and administrative information. Each endpoint uniquely modifies one 
